@@ -18,4 +18,8 @@ After deployment, you will want to prove it works by deploying some workloads.
 
 ## Consuming PKS (deploying workloads)
 
-PKS to the consumer is vanilla Kubernetes, to find our more and understand how to consume and deploy apps to Kubernetes please follow [these tutorials](), which take you from deploying a single container manually through the CLI to deploying a complete application (multiple containers) via a manifest.
+PKS to the consumer is vanilla Kubernetes, to find our more and understand how to consume and deploy apps to Kubernetes please follow these tutorials:
+- [basics](https://www.katacoda.com/javajon/courses/kubernetes-fundamentals)
+- [package management with Helm](https://www.katacoda.com/courses/kubernetes/helm-package-manager) 
+
+which take you from deploying a single container manually through the CLI to deploying a complete application (multiple containers) via a manifest.
